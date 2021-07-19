@@ -1,1 +1,0 @@
-https://JenyBLR.github.io/rsschool-cv/cv
