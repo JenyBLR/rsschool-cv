@@ -2,13 +2,13 @@
 
 ## HTML-coder
 
-### *email* : petkevich6@gmail.com
+### *email* : [petkevich6@gmail.com](petkevich6@gmail.com)
 
-### *telegram*: [@jenyPet](@jenyPet)
+### *telegram*: [@jenyPet](https://t.me/jenyPet)
 
  * _HTML_
  * _CSS_
  
-  __my project__ : https://jenyblr.github.io/GardenCity/ 
+  [__my project__](https://jenyblr.github.io/GardenCity/) 
 
 ### English: A1  
